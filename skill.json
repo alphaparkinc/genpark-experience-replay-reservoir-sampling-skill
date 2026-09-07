@@ -1,0 +1,15 @@
+{
+  "name": "genpark-experience-replay-reservoir-sampling-skill",
+  "version": "1.0.0",
+  "description": "Continual learning experience replay buffer with streaming reservoir sampling.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "experience-replay",
+    "reservoir-sampling",
+    "continual-learning",
+    "replay-buffer",
+    "agentic-ai"
+  ]
+}
